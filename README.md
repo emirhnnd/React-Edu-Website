@@ -2,7 +2,10 @@
 
 Modern web geliştirme teknolojileri kullanılarak hazırlanmış, interaktif bir React ve TypeScript öğrenme platformu. Bu proje, temel React kavramlarından ileri seviye hook'lara kadar geniş bir müfredatı kullanıcı dostu ve interaktif bir arayüzle sunmaktadır.
 
-<img width="1919" height="917" alt="Proje Görseli" src="https://github.com/user-attachments/assets/1ebb7d72-e1c5-4330-baac-957a0c1e434a" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/6b67f773-64c8-4f85-a3df-77d8a77404e5" />
+<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/0ba54e3d-f8e7-4d18-af76-b32817b18b76" />
+<img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/f04a195d-e2dc-4b76-ad67-7a65f33119d9" />
+<img width="1877" height="902" alt="image" src="https://github.com/user-attachments/assets/f9cd7c26-ac09-4182-a93c-4d70f8b0e5ee" />
 
 
 ## ✨ Özellikler
